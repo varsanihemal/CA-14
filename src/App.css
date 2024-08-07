@@ -1,0 +1,77 @@
+.App {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background: #f0f4f8;
+  color: #333;
+}
+
+header, footer {
+  color: #000000;
+  padding: 20px;
+  text-align: center;
+  border-radius: 5px;
+}
+
+main {
+  max-width: 1200px;
+  margin: 0 auto;
+  background: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+section {
+  margin: 20px 0;
+}
+
+h1 {
+  color: #004d99;
+}
+
+h2, h3 {
+  color: #333;
+}
+
+h4 {
+  color: #666;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.tech-list, .developer-setup {
+  margin-bottom: 20px;
+}
+
+.tech-item, .setup-item {
+  margin-bottom: 20px;
+}
+
+.resource-link {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.resource-link:hover {
+  text-decoration: underline;
+}
+
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

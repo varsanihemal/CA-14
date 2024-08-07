@@ -1,0 +1,33 @@
+/* src/components/DeveloperSetup.css */
+.developer-setup {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .developer-setup h2 {
+    font-size: 1.75rem;
+  }
+  
+  .setup-item {
+    margin-bottom: 20px;
+  }
+  
+  .setup-item ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .setup-item ul ul {
+    padding-left: 20px;
+  }
+  
+  .resource-link {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .resource-link:hover {
+    text-decoration: underline;
+  }
+  
